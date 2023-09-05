@@ -1,1 +1,14 @@
-
+body {
+    background-color: rgb(222, 211, 245);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white; 
+  }
