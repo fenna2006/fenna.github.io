@@ -38,12 +38,15 @@ li a:hover {
   background-color: #555;
   color: white;
 }
+<style>
 div {
   border: 1px solid black;
-  background-color: rgb(163, 116, 188);
+  background-color: rgb(170, 131, 190);
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
 }
+</style> 
+
 
