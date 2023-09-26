@@ -53,7 +53,13 @@ h2 {
   text-align: center;
 }
 
-
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: grey;
+  color: white;
+} 
+  
 
 
 
