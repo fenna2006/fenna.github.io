@@ -1,1 +1,16 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html-element-->
+ <head>
+    <title>binairstelsel</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="opmaak.css"> 
+ </head>
+ <body>
+    
 
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="binairstelsel.html">Binair stelsel</a></li>
+      <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+      <li><a href="compressie"
+  </ul>
