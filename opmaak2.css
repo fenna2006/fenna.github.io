@@ -15,7 +15,7 @@ body {
 .forth-level-menu > li
 {
     height: 30px;
-    background: #999999;
+    background: #ca216d;
 }
 .forth-level-menu > li:hover { background: #CCCCCC; }
 
@@ -70,7 +70,7 @@ body {
     position: relative;
     float: left;
     height: 30px;
-    width: 150px;
+    width: 200px;
     background: #999999;
 }
 .top-level-menu > li:hover { background: #CCCCCC; }
