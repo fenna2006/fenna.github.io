@@ -1,23 +1,6 @@
 body {
 
-    .forth-level-menu
-{
-    position: absolute;
-    top: 0;
-    right: -300px;
-    width: 150px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: none;
-}
-
-.forth-level-menu > li
-{
-    height: 30px;
-    background: #ca216d;
-}
-.forth-level-menu > li:hover { background: #e366c4; }
+    
 
 .third-level-menu
 {
