@@ -37,9 +37,9 @@ body {
 {
     position: relative;
     height: 30px;
-    background: #88e488;
+    background: #c074d9;
 }
-.second-level-menu > li:hover { background: #baf192; }
+.second-level-menu > li:hover { background: #e4bbef; }
 
 .top-level-menu
 {
@@ -54,9 +54,9 @@ body {
     float: left;
     height: 30px;
     width: 200px;
-    background: #99beef;
+    background: #cd89a4;
 }
-.top-level-menu > li:hover { background: #7096e8; }
+.top-level-menu > li:hover { background: #ecbfe9; }
 
 .top-level-menu li:hover > ul
 {
@@ -78,6 +78,6 @@ body {
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #7880ee; }
+.top-level-menu a:hover { color: #ffffff; }
   }
 
